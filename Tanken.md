@@ -9,22 +9,23 @@
 ## Tankstellensuche
 
 ### Allgemein
-[Tankstellensuche Italien](https://www.autostrade.it/it/web/aree-di-servizio)
 
-Hinweise:
 * Esso- und IP-Tankstellen funktionieren laut Kollegen nicht.
 * OMV, BP und TOTAL gibt es laut Kollegenaussagen in Italien nicht.
 
 #### Aral in Italien
 ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzKBn4TM-lUq9FVB6fMRIXms8kTw74VXu2AXV26d2uKrVWEYevVZyjJZH1&s)
+
+|Aral-Stationsfinder](https://maps.aral-cardtruck.de/?site=ct&country=IT&countrycode=IT&locale=de_IT&branding=aral)
+
 * Tankstellen von AGIP/ENI
 * Auf Routex-Zeichen achten
 
 #### Shell in Italien
 
-"As of the first September 2023 Q8 will no longer be part of our adoption network. From this point on, the Shell Card (and App) can no longer be used for refuelling at these stations. We have further expanded card acceptance with our partner ENI and from now on almost 4,000 ENI stations in Italy are part of our acceptance network. In addition, we are building a Shell station network in Italy, which currently comprises around 100 stations and will continue to grow. Through the Shell, ENI, APS, D2, TAP and Vulcangas stations, we continue to offer you a comprehensive acceptance network in Italy."
-
 [Shell-Stationsfinder](https://www.shell.de/geschaeftskunden/shell-card-tankkarten/tankstellensuche.html#vanity-aHR0cHM6Ly93d3cuc2hlbGwuZGUvZ2VzY2hhZWZ0c2t1bmRlbi9tb2JpbGl0YWV0L3NoZWxsLWNhcmQtdGFua3N0ZWxsZW5zdWNoZS5odG1s) Europa
+
+"As of the first September 2023 Q8 will no longer be part of our adoption network. From this point on, the Shell Card (and App) can no longer be used for refuelling at these stations. We have further expanded card acceptance with our partner ENI and from now on almost 4,000 ENI stations in Italy are part of our acceptance network. In addition, we are building a Shell station network in Italy, which currently comprises around 100 stations and will continue to grow. Through the Shell, ENI, APS, D2, TAP and Vulcangas stations, we continue to offer you a comprehensive acceptance network in Italy."
 
 ## Tanken am Tankautomat
 * Pistole an der Säule lassen
