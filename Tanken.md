@@ -8,7 +8,8 @@
 * In der Stationssuche von Aral als auch Shell tauchen die gleichen ENI-Tankstellen auf.
 
 ## Lago d'Idro
-* Stazione Di Servizio Shell Di Berardi Mauro, Automat, [VIA TITA SECCHI - FRAZ, 25070 Nozza BS](https://maps.app.goo.gl/pZdvPGaMErTEgKc19)
+* Stazione Di Servizio Shell Di Berardi Mauro, Automat, [VIA TITA SECCHI - FRAZ, 25070 Nozza BS](https://maps.app.goo.gl/pZdvPGaMErTEgKc19), Distanz 10, 9 km von Crone
+* Retitalia (Shell), Automat, [Via Giovanni Quarena, 165, 25085 Gavardo BS](https://maps.app.goo.gl/TVQog8bDLmYx2jvS6), Distanz 32,6 km von Crone
 
 ## Tankstellensuche
 
