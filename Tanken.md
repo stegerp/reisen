@@ -11,6 +11,10 @@
 ### Allgemein
 [Tankstellensuche Italien](https://www.autostrade.it/it/web/aree-di-servizio)
 
+Hinweise:
+* Esso- und IP-Tankstellen funktionieren laut Kollegen nicht.
+* OMV, BP und TOTAL gibt es laut Kollegenaussagen in Italien nicht.
+
 #### Aral in Italien
 ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzKBn4TM-lUq9FVB6fMRIXms8kTw74VXu2AXV26d2uKrVWEYevVZyjJZH1&s)
 * Tankstellen von AGIP/ENI
