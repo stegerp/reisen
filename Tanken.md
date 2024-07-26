@@ -5,6 +5,7 @@
 
 ## Im Trentino
 * Shell, Automat?, [Via Nazionale, 31, 38123 Trento](https://maps.app.goo.gl/h8mrQY99Eps8a1hD7)
+* In der Stationssuche von Aral als auch Shell tauchen die gleichen ENI-Tankstellen auf.
 
 ## Tankstellensuche
 
