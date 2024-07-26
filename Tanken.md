@@ -23,7 +23,7 @@
 
 #### Shell in Italien
 
-[Shell-Stationsfinder](https://www.shell.de/geschaeftskunden/shell-card-tankkarten/tankstellensuche.html#vanity-aHR0cHM6Ly93d3cuc2hlbGwuZGUvZ2VzY2hhZWZ0c2t1bmRlbi9tb2JpbGl0YWV0L3NoZWxsLWNhcmQtdGFua3N0ZWxsZW5zdWNoZS5odG1s) Europa
+[Shell-Stationsfinder](https://www.shell.de/geschaeftskunden/shell-card-tankkarten/tankstellensuche.html#vanity-aHR0cHM6Ly93d3cuc2hlbGwuZGUvZ2VzY2hhZWZ0c2t1bmRlbi9tb2JpbGl0YWV0L3NoZWxsLWNhcmQtdGFua3N0ZWxsZW5zdWNoZS5odG1s) , Europa
 
 "As of the first September 2023 Q8 will no longer be part of our adoption network. From this point on, the Shell Card (and App) can no longer be used for refuelling at these stations. We have further expanded card acceptance with our partner ENI and from now on almost 4,000 ENI stations in Italy are part of our acceptance network. In addition, we are building a Shell station network in Italy, which currently comprises around 100 stations and will continue to grow. Through the Shell, ENI, APS, D2, TAP and Vulcangas stations, we continue to offer you a comprehensive acceptance network in Italy."
 
