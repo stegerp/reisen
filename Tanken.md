@@ -16,7 +16,7 @@
 #### Aral in Italien
 ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzKBn4TM-lUq9FVB6fMRIXms8kTw74VXu2AXV26d2uKrVWEYevVZyjJZH1&s)
 
-|Aral-Stationsfinder](https://maps.aral-cardtruck.de/?site=ct&country=IT&countrycode=IT&locale=de_IT&branding=aral)
+[Aral-Stationsfinder](https://maps.aral-cardtruck.de/?site=ct&country=IT&countrycode=IT&locale=de_IT&branding=aral)
 
 * Tankstellen von AGIP/ENI
 * Auf Routex-Zeichen achten
