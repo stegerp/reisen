@@ -13,8 +13,8 @@
 
 #### Aral in Italien
 ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzKBn4TM-lUq9FVB6fMRIXms8kTw74VXu2AXV26d2uKrVWEYevVZyjJZH1&s)
-* Tankstellen von AGIP/ENI mit Routex-Zeichen
-* Auf "INT"-Kürzel auf Tankkarte achten
+* Tankstellen von AGIP/ENI
+* Auf Routex-Zeichen achten
 
 #### Shell in Italien
 
