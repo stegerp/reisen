@@ -1,4 +1,6 @@
 # Tanken
+## Hinfahrt Heidelberg -> Paris
+* Station Service Eni - Gueux [Aire de Gueux, Autoroute de l'Est, A4, 51390 Vrigny, France](https://maps.app.goo.gl/D9pkbv66n1MvjbW67)
 
 ## Hinfahrt Heidelberg -> Trento
 * KM 470, BP (Aral) in [Erlach 138, 6150 Steinach am Brenner, Österreich](https://maps.app.goo.gl/rbBUySTdJorQsa92A), 6 - 22 Uhr
