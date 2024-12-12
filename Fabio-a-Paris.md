@@ -8,4 +8,4 @@
 
 ## Choses à faire
 * [Rivoli 59](http://www.59rivoli.org/), [59 Rue de Rivoli, 75001 Paris](https://maps.app.goo.gl/DBaVVh4JuUA6rQHo7). [Wiki](https://en.wikipedia.org/wiki/59_Rivoli)
-* [Saint-Chapelle](https://www.sainte-chapelle.fr/), [10 Bd du Palais, 75001 Paris](https://maps.app.goo.gl/iQRcjSg9PfA5YBZt7), [Wiki](https://de.wikipedia.org/wiki/Sainte-Chapelle_(Paris))
+* [Saint-Chapelle](https://www.sainte-chapelle.fr/), [10 Bd du Palais, 75001 Paris](https://maps.app.goo.gl/iQRcjSg9PfA5YBZt7), [Wiki](https://de.wikipedia.org/wiki/Sainte-Chapelle_(Paris)). Die [Sicherheitsbedingungen](https://www.sainte-chapelle.fr/en/visit/practical-information) beachten!
