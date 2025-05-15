@@ -5,4 +5,6 @@
 
 ## Winzer und Weine der Region
 * [Mas Llunes, Vinyes i Cellers](https://masllunes.es/), [Ctra de Vilajuïga, s/n, 17780, Girona, Spain](https://maps.app.goo.gl/v2uXknbAjt1WRGXY9)
+  + Ca. 30 Minuten Fahrtzeit.
+  + Erschwingliche Preise
 
