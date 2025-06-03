@@ -7,4 +7,9 @@
 * [Mas Llunes, Vinyes i Cellers](https://masllunes.es/), [Ctra de Vilajuïga, s/n, 17780, Girona, Spain](https://maps.app.goo.gl/v2uXknbAjt1WRGXY9)
   + Ca. 30 Minuten Fahrtzeit.
   + Erschwingliche Preise
+ 
+## Wein
+* [Weinstraße Empordà](https://www.winetourism.com/de/fuhrung-zu-emporda-wein-route/)
+* [Enogastronomia](https://costabrava.org/que-fer/enogastronomia/)
+* [Weine aus dem Empordà](https://www.hispavinus.de/de/region/spanien/emporda/)
 
